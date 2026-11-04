@@ -1,0 +1,43 @@
+{
+  "component": "relay",
+  "version": "0.6.0",
+  "tag": "v0.6.0-r16",
+  "builtAt": "2026-10-26T00:28:15.225Z",
+  "files": {
+    "win-x64": {
+      "path": "relay-win-x64.exe",
+      "sha256": "251656e7967b83a908100b59d7584aac162447c89c61fb6feb3da84ec45da8dc",
+      "bytes": 94018560,
+      "kind": "sea",
+      "url": "https://github.com/Hotel-Assistant/releases/releases/download/v0.6.0-r16/relay-win-x64.exe"
+    },
+    "linux-x64": {
+      "path": "relay-linux-x64",
+      "sha256": "1b6353500115fa3dfb753cada8d83516fbf2fdb594b7d5fe4cae8feca7f38fba",
+      "bytes": 126946496,
+      "kind": "sea",
+      "url": "https://github.com/Hotel-Assistant/releases/releases/download/v0.6.0-r16/relay-linux-x64"
+    },
+    "linux-arm64": {
+      "path": "relay-linux-arm64",
+      "sha256": "f0e0ffc9f84343ed9d05a713f7dedf846480434b624be766ee6da0ba8af9bd31",
+      "bytes": 123276416,
+      "kind": "sea",
+      "url": "https://github.com/Hotel-Assistant/releases/releases/download/v0.6.0-r16/relay-linux-arm64"
+    },
+    "darwin-arm64": {
+      "path": "relay-darwin-arm64",
+      "sha256": "399e9cc9c147d7cfc0d561f4f357dcdca1f60f4ebbf40fd8e360505a70853e5a",
+      "bytes": 122207600,
+      "kind": "sea",
+      "url": "https://github.com/Hotel-Assistant/releases/releases/download/v0.6.0-r16/relay-darwin-arm64"
+    },
+    "bundle": {
+      "path": "relay.js",
+      "sha256": "e59a28dfdcb88080daac97674c93ed753a32bae629e658c81a709ffb2fdc1ad1",
+      "bytes": 312039,
+      "kind": "bundle",
+      "url": "https://github.com/Hotel-Assistant/releases/releases/download/v0.6.0-r16/relay.js"
+    }
+  }
+}
