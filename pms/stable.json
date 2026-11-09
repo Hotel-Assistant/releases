@@ -1,21 +1,21 @@
 {
   "component": "pms",
-  "version": "2026.11.1",
-  "tag": "pms-2026.11.1",
-  "builtAt": "2026-11-05T15:16:59Z",
+  "version": "2026.11.2",
+  "tag": "pms-2026.11.2",
+  "builtAt": "2026-11-09T00:57:17Z",
   "minimumFrom": "2026.11.0",
   "image": {
     "name": "ghcr.io/hotel-assistant/pms",
-    "tag": "2026.11.1",
-    "digest": "sha256:39551966ce52ced466cbde10784334c228eb47ba4d3c3fdac7d869fdeab7b7b7"
+    "tag": "2026.11.2",
+    "digest": "sha256:f6268b7995f9c021d66d72a1606ad145c08b7869a471cdbba8df93ba1d6daec5"
   },
   "files": {
     "vercel": {
-      "name": "pms-vercel-2026.11.1.tgz",
-      "url": "https://github.com/Hotel-Assistant/releases/releases/download/pms-2026.11.1/pms-vercel-2026.11.1.tgz",
-      "sha256": "872fd9e88cfe03258c98abab73df28365b297e01b53fffbbd09762a405100f4c",
-      "bytes": 15831730
+      "name": "pms-vercel-2026.11.2.tgz",
+      "url": "https://github.com/Hotel-Assistant/releases/releases/download/pms-2026.11.2/pms-vercel-2026.11.2.tgz",
+      "sha256": "1b36ae4d49ee0e0c75643e3981315eec4d113c1ac2bacdd718b1cf8b615d47c4",
+      "bytes": 15745089
     }
   },
-  "notes": "https://hotel-assistant.github.io/releases/pms/notes/2026.11.1.md"
+  "notes": "https://hotel-assistant.github.io/releases/pms/notes/2026.11.2.md"
 }
